@@ -92,7 +92,7 @@ public class Main {
 			Person person = new Person();
 			if (i == 20) {
 				/*
-				MyException myException = new MyException("dvacátý");
+		 		MyException myException = new MyException("dvacátý");
 				throw myException;
 				
 				NEBO raději: 
